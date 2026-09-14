@@ -33,7 +33,7 @@
 2.  Extract the contents to any folder (your desktop?).
 3.  Launch the game.
 4.  Run `BW-github-v1.2.exe`.
-5.  Enjoy.
+5.  Enjoy. Press the toggle hotkey (default: `[Insert]`) to open the menu.
 
 ---
 
